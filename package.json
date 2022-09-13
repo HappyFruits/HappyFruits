@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HappyFruits/HappyFruits/issues"
   },
-  "homepage": "https://github.com/HappyFruits/HappyFruits#readme"
+  "homepage": "https://github.com/HappyFruits/HappyFruits#readme",
+  "dependencies": {
+    "firebase": "^9.9.4"
+  }
 }
