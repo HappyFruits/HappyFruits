@@ -1,0 +1,17 @@
+@media only screen and (max-width:800px){
+    
+    .MenuBar{
+        float: left;
+        margin-right: 5px;
+        position: relative;
+        width: 10vh;
+        height: 10vh;
+    }
+    
+    div.MenuBar{
+        font-size: 2vw;
+        line-height: 7vh;
+        width: 15vw;
+    }
+    
+}
