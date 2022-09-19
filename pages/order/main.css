@@ -1,0 +1,33 @@
+#productz{
+    margin-top: 12vh;
+}
+
+#products2{
+    width: 100vw;
+    height: 30vh;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    position: fixed;
+    left: 0px;
+    z-index: 50;
+    border: 1px solid black;
+}
+
+#products{
+    height: 30vh;
+}
+
+.product{
+    width: 25vh;
+    height: 25vh;
+    background-color: rgb(170, 170, 170);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: inline-block;
+    margin: 3px;
+    line-height: 4px;
+}
+
+.product:hover{
+    background-color: rgb(180, 180, 180); 
+}
